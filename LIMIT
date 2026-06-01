@@ -1,0 +1,4 @@
+> "psql: warning: extra command-line argument "10" ignored
+ERROR:  syntax error at or near "T"
+LINE 2: T availability_date, COUNT> SELECT availability_date, COUNT(...
+        ^
